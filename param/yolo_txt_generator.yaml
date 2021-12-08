@@ -1,0 +1,3 @@
+origin_img_path: ./img
+txt_file_name: yolo
+txt_save_path: ./
