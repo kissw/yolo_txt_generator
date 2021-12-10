@@ -16,7 +16,7 @@ txt_save_path: ./ #txt 저장 경로
 ### 명령어
 conda 환경설치 방법은 상위 폴더를 참조
 ```
-(base) $ conda activate 3w
+(base) $ conda activate watt
 
 (3w) $ python src/yolo_txt_generator.py
 ```
